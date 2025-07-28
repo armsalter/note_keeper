@@ -7,3 +7,7 @@ HTML
 JAVASCRIPT
 CSS
 
+#Ekran Görüntüsü
+
+![ezgif com-optimize](https://github.com/user-attachments/assets/472775ef-41d7-4233-9aa8-6f5442621396)
+
