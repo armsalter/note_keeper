@@ -18,7 +18,6 @@ A simple, responsive, and user-friendly note-taking application built with **HTM
 - 🗑️ Delete notes
 - 💾 Notes are stored in LocalStorage (persistent even after browser refresh)
 - 📱 Fully responsive (mobile-friendly)
-- 🌙 Optional dark mode (if implemented)
 - 🎨 Clean and minimal UI
 
 ---
