@@ -1,11 +1,44 @@
-# note_keeper
-Bu bir not tutma programıdır, bu programla ajandanıza yeni başlıklarla yeni notlar ekleyebilir, notlarınızda güncellemeler yapabilir,hatta istediğiniz notu silebilr ve yeni bir not ekleyebilirsiniz.
+# 📝 Note-Taking Web App
 
-#Teknolojiler
+A simple, responsive, and user-friendly note-taking application built with **HTML**, **CSS**, and **JavaScript**. It allows users to create, edit, delete, and save notes directly in the browser using **LocalStorage**.
 
-HTML
-JAVASCRIPT
-CSS
+---
+
+## 🚀 Live Demo
+
+🔗 [View Live Project](https://notekeeper11.netlify.app/)  
+*(Replace this link with your actual GitHub Pages or Netlify link)*
+
+---
+
+## 📌 Features
+
+- 🆕 Add new notes
+- ✏️ Edit existing notes
+- 🗑️ Delete notes
+- 💾 Notes are stored in LocalStorage (persistent even after browser refresh)
+- 📱 Fully responsive (mobile-friendly)
+- 🌙 Optional dark mode (if implemented)
+- 🎨 Clean and minimal UI
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript (ES6)**
+
+---
+
+
+
+
+
+📬 Contact
+Feel free to reach out for collaboration, feedback, or questions!
+
+📧 Email: eminar38s@gmail.com
 
 #Ekran Görüntüsü
 
