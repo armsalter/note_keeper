@@ -39,6 +39,11 @@ Feel free to reach out for collaboration, feedback, or questions!
 
 📧 Email: eminar38s@gmail.com
 
+🔗 GitHub: https://github.com/armsalter
+
+💼 LinkedIn: https://www.linkedin.com/in/armagans/
+
+
 #Ekran Görüntüsü
 
 ![ezgif com-optimize](https://github.com/user-attachments/assets/472775ef-41d7-4233-9aa8-6f5442621396)
